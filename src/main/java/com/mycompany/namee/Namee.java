@@ -13,6 +13,8 @@ public class Namee {
     public static void main(String[] args) {
         System.out.println("my name is kan");
         System.out.println("his name is lucho : ");
+        System.out.println("zero to hero: ");
+        
         
     }
 }
